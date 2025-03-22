@@ -1,3 +1,4 @@
 Name= ankita naik
 branch=CSE
 Redg no= 2402040092
+home town=bargarh
