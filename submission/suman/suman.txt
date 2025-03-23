@@ -1,0 +1,5 @@
+name=sumanrani
+branch=cse
+redgno=2402041154
+hometown=berhampur
+hobby=reading books
